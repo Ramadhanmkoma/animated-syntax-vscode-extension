@@ -66,7 +66,7 @@ You can easily customize the extension by:
 
 ## Release Notes
 
-### 0.0.2
+### 0.0.1
 
 **New Features:**
 - Language-specific keyword detection (TypeScript, JavaScript, Python, Java, C#, Go, Rust, C++)
